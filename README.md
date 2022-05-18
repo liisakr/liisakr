@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @liisakr.
-- 🙋 Here to network.
-- 💬 https://www.linkedin.com/in/liisakrr/
+- 💬 Here to network.
 
 <!---
 liisakr/liisakr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
